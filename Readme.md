@@ -1,7 +1,7 @@
 # Analytttics - Unofficial Dribbble Activity Ratings
 Evaluate your Dribbble activities more than just followers counts: http://anyway.design/analytttics/
 
-![](https://raw.githubusercontent.com/JJYing/Analytttics/master/assets/preview.png)
+![](https://raw.githubusercontent.com/JJYing/Analytttics/master/preview.png)
 
 # How It Works
 With the help (limitations too 😪), I found a few metrics that may help to build a rough image of a Dribbbler:
