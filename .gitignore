@@ -1,0 +1,18 @@
+source/
+*.psd
+*.esproj/*
+*.esproj
+*.espressostorage
+config.codekit
+.DS_Store
+Archive
+config.codekit
+temp
+Source Files
+data
+temp
+*.psd
+*.sketch
+promotion
+log/*
+images/logo.svg
