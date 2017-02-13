@@ -49,7 +49,7 @@
 		
 		<footer class="footer home-footer">
 			<div class="inner">
-				由 <a href="http://Anyway.FM">Anyway.FM</a> 的 <a href="https://dribbble.com/jjying">JJ Ying</a> 设计开发<span>•</span>源代码在 <a href="#">GitHub</a> 上<span>•</span>所有指数仅供娱乐，请勿严肃对待<span>•</span><a href="index.php">for English</a>
+				由 <a href="http://Anyway.FM">Anyway.FM</a> 的 <a href="https://dribbble.com/jjying">JJ Ying</a> 设计开发<span>•</span>源代码在 <a href="https://github.com/JJYing/Analytttics">GitHub</a> 上<span>•</span>所有指数仅供娱乐，请勿严肃对待<span>•</span><a href="index.php">for English</a>
 			</div>
 		</footer>
 	</div>
@@ -69,7 +69,7 @@
 		<nav class="v-align">
 			<ul>
 				<li><a href="http://Anyway.FM">Anyway.FM 旗下产品</a></li>
-				<li><a href="#">源代码 @ GitHub</a></li>
+				<li><a href="https://github.com/JJYing/Analytttics">源代码 @ GitHub</a></li>
 				<li><a href="index.php<?php if ($_GET['n']) {echo('?n='.$_GET['n']);}?>">English</a></li>
 			</ul>
 		</nav>
@@ -167,7 +167,7 @@
 	
 	<footer class="<?php if ($_GET['n']=='') {echo('hide');}?>">
 		<div class="inner">
-			由 <a href="http://Anyway.FM">Anyway.FM</a> 主播 <a href="https://dribbble.com/jjying">JJ Ying</a> 设计开发，源代码在 <a href="#">GitHub</a> 上，所有指数仅供娱乐，请勿严肃对待 ☻ <a href="mailto:hello@anyway.fm">联系我们</a>
+			由 <a href="http://Anyway.FM">Anyway.FM</a> 主播 <a href="https://dribbble.com/jjying">JJ Ying</a> 设计开发，源代码在 <a href="https://github.com/JJYing/Analytttics">GitHub</a> 上，所有指数仅供娱乐，请勿严肃对待 ☻ <a href="mailto:hello@anyway.fm">联系我们</a>
 		</div>
 	</footer>
 

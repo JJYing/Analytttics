@@ -50,7 +50,7 @@
 		
 		<footer class="footer home-footer">
 			<div class="inner">
-				Made by <a href="https://dribbble.com/jjying">JJ Ying</a> @ <a href="https://dribbble.com/Anyway-Design">Anyway.Design</a><span>•</span> Source code @ <a href="#">GitHub</a><span>•</span>All scores are just made for fun<span>•</span><a href="index-cn.php">简体中文版</a>
+				Made by <a href="https://dribbble.com/jjying">JJ Ying</a> @ <a href="https://dribbble.com/Anyway-Design">Anyway.Design</a><span>•</span> Source code @ <a href="https://github.com/JJYing/Analytttics">GitHub</a><span>•</span>All scores are just made for fun<span>•</span><a href="index-cn.php">简体中文版</a>
 			</div>
 		</footer>
 	</div>
@@ -70,7 +70,7 @@
 		<nav class="v-align">
 			<ul>
 				<li><a href="http://Anyway.Design">Anyway.Design</a></li>
-				<li><a href="#">Star on GitHub</a></li>
+				<li><a href="https://github.com/JJYing/Analytttics">Star on GitHub</a></li>
 				<li><a href="index-cn.php<?php if ($_GET['n']) {echo('?n='.$_GET['n']);}?>">简体中文</a></li>
 			</ul>
 		</nav>
@@ -169,7 +169,7 @@
 	
 	<footer class="<?php if ($_GET['n']=='') {echo('hide');}?>">
 		<div class="inner">
-			Made with ♡ by <a href="https://dribbble.com/jjying">JJ Ying</a> for <a href="http://Anyway.Design">Anyway.Design</a>. Open sourced on <a href="#">GitHub</a>. All scores are made for fun, please don't take them too serious ☻. <a href="mailto:hello@anyway.fm">Contact Us</a>
+			Made with ♡ by <a href="https://dribbble.com/jjying">JJ Ying</a> for <a href="http://Anyway.Design">Anyway.Design</a>. Open sourced on <a href="https://github.com/JJYing/Analytttics">GitHub</a>. All scores are made for fun, please don't take them too serious ☻. <a href="mailto:hello@anyway.fm">Contact Us</a>
 		</div>
 	</footer>
 
