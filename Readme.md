@@ -1,5 +1,5 @@
-# Analytttics - Unofficial Dribbble Activity Ratings
-Evaluate your Dribbble activities beyond followers counts: http://anyway.design/analytttics/
+# Analytttics
+Analytttics gives unofficial Dribbble player ratings, it evaluate your Dribbble activities beyond followers counts: **http://anyway.design/analytttics/**
 
 
 ![](https://raw.githubusercontent.com/JJYing/Analytttics/master/preview.png)
@@ -14,11 +14,13 @@ With the help (limitations too 😪), I found a few metrics that may help to bui
 * **Engagement**: based on *( comment + rebounds ) / views* for recent shots.
 * **Influence**: based on *followers / total years since joined Dribbble*.
 
-And the **Total Score** is a weighted mean of the 5 scores above.
-
-This system is pretty subject, hope you take it only for fun just like me and please be free to advice me for better ideas. 😁
+And the **Total Score** is a weighted mean of the 5 scores above.This system is pretty subject, and please be free to advice me for better ideas. 
 
 # Credits
 - [jribbble](https://github.com/tylergaw/jribbble)
 - [share.js](https://github.com/overtrue/share.js)
 - [d3](https://github.com/d3/d3)
+
+# Have Fun
+Hope you have fun with it just like I did 😁
+**http://anyway.design/analytttics/**
