@@ -1,7 +1,9 @@
 # Analytttics - Unofficial Dribbble Activity Ratings
-Evaluate your Dribbble activities more than just followers counts: http://anyway.design/analytttics/
+Evaluate your Dribbble activities beyond followers counts: http://anyway.design/analytttics/
+
 
 ![](https://raw.githubusercontent.com/JJYing/Analytttics/master/preview.png)
+
 
 # How It Works
 With the help (limitations too 😪), I found a few metrics that may help to build a rough image of a Dribbbler:
@@ -17,4 +19,6 @@ And the **Total Score** is a weighted mean of the 5 scores above.
 This system is pretty subject, hope you take it only for fun just like me and please be free to advice me for better ideas. 😁
 
 # Credits
-- Some icons used are from the set [Squid Ink Line Icons](http://thesquid.ink/line-icons/)
+- [jribbble](https://github.com/tylergaw/jribbble)
+- [share.js](https://github.com/overtrue/share.js)
+- [d3](https://github.com/d3/d3)
