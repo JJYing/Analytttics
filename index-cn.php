@@ -43,7 +43,7 @@
 			</h1>
 			<div class="tagline">Dribbble 综合实力评价，<span class="mobile-only"><br /></span>我们不光只看粉丝数</div>
 			<form class="submit-form" action="" method="get">
-				<input type="text" name="n" value="输入你的 Dribbble 用户名进行评测，或者试试看「jjying」" class="input-box" onFocus="this.value='';$('.input-box').css('color','#444');"/><input type="submit" value="OK" class="btn"/>
+				<input type="text" name="n" value="输入你的 Dribbble 用户名（登录时候填的那个）开始评测" class="input-box" onFocus="this.value='';$('.input-box').css('color','#444');"/><input type="submit" value="OK" class="btn"/>
 			</form>
 		</div>
 		
