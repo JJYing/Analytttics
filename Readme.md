@@ -24,3 +24,5 @@ And the **Total Score** is a weighted mean of the 5 scores above.This system is 
 # Have Fun
 Hope you have fun with it just like I did 😁
 **http://anyway.design/analytttics/**
+
+同时，也有一个[**中文版**](http://anyway.design/analytttics/index-cn.php?s=github)可供体验~
