@@ -69,9 +69,9 @@
 		</form>
 		<nav class="v-align">
 			<ul>
-				<li><a href="http://Anyway.Design">Anyway.Design</a></li>
+				<li><a href="https://medium.com/@JJYing/evaluate-dribbble-activities-beyond-followers-counts-de5df4a9b512#.dhrlcfn1s">How It Works</a></li>
 				<li><a href="https://github.com/JJYing/Analytttics">Star on GitHub</a></li>
-				<li><a href="index-cn.php<?php if ($_GET['n']) {echo('?n='.$_GET['n']);}?>">简体中文</a></li>
+				<li><a href="index-cn.php<?php if ($_GET['n']) {echo('?n='.$_GET['n']);}?>">中文版</a></li>
 			</ul>
 		</nav>
 	</header>
