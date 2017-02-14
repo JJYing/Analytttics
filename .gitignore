@@ -14,5 +14,5 @@ temp
 *.psd
 *.sketch
 promotion
-log/*
+log/*/*.txt
 images/logo.svg
