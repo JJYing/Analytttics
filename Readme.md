@@ -6,7 +6,7 @@ Analytttics gives unofficial Dribbble player ratings, it evaluate your Dribbble 
 
 
 # How It Works
-With the help (limitations too 😪), I found a few metrics that may help to build a rough image of a Dribbbler:
+With the help (limitations too 😪) of Dribble API, I found a few metrics that may help to build a rough image of a Dribbbler:
 
 * **Appreciation**: based on *( favs + buckets ) / views* for recent shots.
 * **Attractions**: based on *the percentage of followers who have 100+ followers*.
