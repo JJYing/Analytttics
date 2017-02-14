@@ -89,16 +89,29 @@ $.jribbble.users(username).shots({per_page: 20}).then(function(shots) {
 	});
 	
 	//~Appreciation
-	appreciation = ( total_favs + total_buckets * 20) / total_views;
+
+	if ( total_views == 0) {
+		appreciation = 0;
+	}
+	else {
+		appreciation = ( total_favs + total_buckets * 20) / total_views;
+	}
 	appreciation = distribute(appreciation, 0.28);
+	
 	
 	var html_appreciation = [];
 	html_appreciation.push(appreciation);
 	$('.appreciation-score').html(html_appreciation.join(''));
 	
 	//~Engagement
-	engagement = ( total_comments + total_rebounds * 10) / total_favs;
+	if ( total_favs == 0) {
+		engagement = 0;
+	}
+	else {
+		engagement = ( total_comments + total_rebounds * 10) / total_favs;
+	}
 	engagement = distribute(engagement, 0.2);
+	
 	
 	var html_engagement =[];
 	html_engagement.push(engagement);
@@ -121,7 +134,12 @@ $.jribbble.users(username).followers({per_page: 100}).then(function(res) {
 			total_star_followers += 1;
 		}
 	});
-	attractions = total_star_followers / total_followers;
+	if (total_followers == 0) {
+		attractions = 0;
+	}
+	else {
+		attractions = total_star_followers / total_followers;
+	}
 	attractions = distribute(attractions, 0.1);
 	
 	var html_attractions = [];
