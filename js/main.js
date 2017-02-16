@@ -52,8 +52,7 @@ $.jribbble.users(username).then(function(user) {
 	
 	diligence = user.shots_count / z / 12 / 48;
 	diligence = distribute(diligence,0.2);
-	
-	
+		
 	influence = user.followers_count / (y - x) / 20000;
 	influence = distribute(influence,0.15);
 	
