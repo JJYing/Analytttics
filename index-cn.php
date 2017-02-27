@@ -89,7 +89,7 @@
 							    </g>
 							</svg>
 						</div>
-						<div class="profile-name"><h2><span class="user-name"><i class="placeholder">✱</i></span> 加入 Dribbble 已经 <span class="user-years"><i class="placeholder">✱</i></span> 年了，总共上传了 <span class="user-shots"><i class="placeholder">✱</i></span> 个作品，获得了 <span class="user-total-favs"><i class="placeholder">✱</i></span> 次加心和 <span class="user-total-comments"><i class="placeholder">✱</i></span> 条评论。</h2></div>
+						<div class="profile-name"><h2><span class="user-name"><i class="placeholder">✱</i></span> 加入 Dribbble 已经 <span class="user-years"><i class="placeholder">✱</i></span> 年了，是第 <span class="user-id-number"><i class="placeholder">✱</i></span> 号用户，总共上传了 <span class="user-shots"><i class="placeholder">✱</i></span> 个作品，获得了 <span class="user-total-favs"><i class="placeholder">✱</i></span> 次加心和 <span class="user-total-comments"><i class="placeholder">✱</i></span> 条评论。</h2></div>
 					</div>
 				</div>
 				<div class="profile-total">

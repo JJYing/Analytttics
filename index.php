@@ -91,7 +91,7 @@
 							    </g>
 							</svg>
 						</div>
-						<div class="profile-name"><h2><span class="user-name"><i class="placeholder">✱</i></span> has uploaded <span class="user-shots"><i class="placeholder">✱</i></span> shots in <span class="user-years"><i class="placeholder">✱</i></span> years on Dribbble, received <span class="user-total-favs"><i class="placeholder">✱</i></span> favs and <span class="user-total-comments"><i class="placeholder">✱</i></span> comments.</h2></div>
+						<div class="profile-name"><h2><span class="user-name"><i class="placeholder">✱</i></span> is the № <span class="user-id-number"><i class="placeholder">✱</i></span> user on Dribbble, and has uploaded <span class="user-shots"><i class="placeholder">✱</i></span> shots in <span class="user-years"><i class="placeholder">✱</i></span> years on Dribbble, received <span class="user-total-favs"><i class="placeholder">✱</i></span> favs and <span class="user-total-comments"><i class="placeholder">✱</i></span> comments.</h2></div>
 					</div>
 				</div>
 				<div class="profile-total">

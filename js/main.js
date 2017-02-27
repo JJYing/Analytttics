@@ -24,6 +24,12 @@ $.jribbble.users(username).then(function(user) {
 	html_name.push('<a href="' + user.html_url + '">' + user.name + '</a>');
 	$('.user-name').html(html_name.join(''));
 	
+	
+	//~ID Number
+	var html_id_number = [];
+	html_id_number.push(user.id);
+	$('.user-id-number').html(html_id_number.join(''));	
+	
 	//~Total Shots
 	var html_total_shots = [];
 	html_total_shots.push(user.shots_count);
