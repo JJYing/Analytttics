@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gulp-clean-css": "*",
+    "gulp-rename": "*",
+    "gulp-watch": "*",
+    "gulp-batch-replace": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-htmlmin": "*"
+  }
+}
