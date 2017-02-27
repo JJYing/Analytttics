@@ -9,11 +9,8 @@
 	
 	<link rel="stylesheet" rev="stylesheet" href="main.css" type="text/css" media="all" />
 	
-	<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-	<script type="text/javascript" src='js/jribbble.min.js'></script>	
 	<script type="text/javascript" src="js/d3.min.js"></script>
-	<script type="text/javascript" src="js/main.js"></script>
-	<script type="text/javascript" src='js/social-share.min.js'></script>
+	<script type="text/javascript" src="build/all.js"></script>
 	
 	<link rel="shortcut icon" href="favicon.png" />
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,400,700&amp;subset=latin-ext" rel="stylesheet">
