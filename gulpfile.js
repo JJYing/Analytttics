@@ -26,6 +26,7 @@ gulp.task('default', function() {
 		.pipe(gulp.dest('build'));
 		
 	gulp.src(['js/*.js','!js/d3.min.js'])
+		.pipe(plugins.uglify())
 		.pipe(plugins.concat('all.js'))
 		.pipe(gulp.dest('build'));
 		
