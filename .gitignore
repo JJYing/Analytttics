@@ -10,6 +10,7 @@ config.codekit
 temp
 Source Files
 data
+node_modules
 temp
 *.psd
 *.sketch
