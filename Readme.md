@@ -26,3 +26,5 @@ Hope you have fun with it just like I did 😁
 **http://anyway.design/analytttics/**
 
 同时，也有一个[**中文版**](http://anyway.design/analytttics/index-cn.php?s=github)可供体验~
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
